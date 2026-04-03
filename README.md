@@ -53,6 +53,10 @@ Confira tambem alguns projetos de destaque que participei!
   <img width="12"/>
   <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" height="40" alt="mysql logo"/>
   <img width="12"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html logo"/>
+  <img width="12"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo"/>
+  <img width="12"/>
 </div>
 
 ###
