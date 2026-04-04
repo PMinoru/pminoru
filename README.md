@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?color=3458f7&size=32&center=true&vCenter=true&width=1000&lines=Prazer,+sou+Pedro+Minoru;Desenvolvedor+back-end+em+forma%C3%A7%C3%A3o;Seja+bem-vindo+ao+meu+portf%C3%B3lio!" alt="Typing SVG">
 
 Muito prazer, meu nome é Pedro Minoru, tenho 20 anos e carrego comigo a paixão pela tecnologia. <br>
-Formado como técnico em Rede de Computadores pelo SENAI-SP e com base sólida de conhecimentos de infraestrutura e comunicação, recentemente comecei a minha aventura na área que sempre desejei, a área de desenvolvimento 
+Formado como técnico em Rede de Computadores pelo SENAI-SP e com base sólida de conhecimentos de infraestrutura e como a internet funciona por "de baixo dos panos", recentemente comecei a minha aventura na área que sempre desejei, a área de desenvolvimento 
 <div align="center">
   <a href="https://linkedin.com/in/pedro-minoru" target="_blank"><img src="https://img.icons8.com/?size=100&id=wjmIz86BWbyf&format=png&color=000000" width="50"/></a>
   <a href="mailto:pedrominoru2@gmail.com"><img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="50" alt="gmail logo"></a>
